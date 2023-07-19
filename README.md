@@ -21,7 +21,7 @@ Russian, English, Japanese
 
 ## Сontacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hiodollhouse)
-[![Email](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=mail&logoColor=4F7DB3)](https://vk.com/hiodollhouse)(asya.sham.qa@gmail.com)
+[![Email](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=mail&logoColor=4F7DB3)](asya.sham.qa@gmail.com)
 
 
 
