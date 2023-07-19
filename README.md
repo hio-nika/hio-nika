@@ -16,9 +16,12 @@ About me
 ## Language
 Russian, English, Japanese
 
-## Follow me
+## My hobby
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]( https://www.youtube.com/HioDollHouse)
+
+## Сontacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]()
+
 
 
 
