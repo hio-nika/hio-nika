@@ -15,10 +15,11 @@ About me
 
 ## Testing Documentation
 - [Checklists]
-- [Test-Suites and Test-Cases]
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1rrrBkgJ6F9qslFDkHfO_Q6ThvGhLTLNtAiJqsskDoGc/edit?pli=1#gid=0)
 - [Bug-Reports]
-- [SQL Queries]
 - [Postman Collections]
+
+
 
 ## Language
 Russian, English, Japanese
@@ -28,7 +29,7 @@ Russian, English, Japanese
 
 ## Сontacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hiodollhouse)
-[Email](asya.sham.qa@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hionika)
 
 
 
