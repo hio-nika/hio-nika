@@ -1,0 +1,458 @@
+{
+	"info": {
+		"_postman_id": "2ff5b524-bdf9-49fb-b2f0-b2d66dcefca0",
+		"name": "Petstore",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26485656"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Create user",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 1010,\r\n  \"username\": \"user123\",\r\n  \"firstName\": \"Jane\",\r\n  \"lastName\": \"Doe\",\r\n  \"email\": \"jd@gmail.com\",\r\n  \"password\": \"pas12345\",\r\n  \"phone\": \"+123456789\",\r\n  \"userStatus\": 0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/user",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create user With Array",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n    {\r\n        \"id\": 1011,\r\n        \"username\": \"user111\",\r\n        \"firstName\": \"Jane1\",\r\n        \"lastName\": \"Doe1\",\r\n        \"email\": \"jd1@gmail.com\",\r\n        \"password\": \"pas12345\",\r\n        \"phone\": \"\",\r\n        \"userStatus\": 0\r\n    },\r\n    {\r\n        \"id\": 1012,\r\n        \"username\": \"user222\",\r\n        \"firstName\": \"Jane2\",\r\n        \"lastName\": \"Doe2\",\r\n        \"email\": \"jd2@gmail.com\",\r\n        \"password\": \"pas12345\",\r\n        \"phone\": \"\",\r\n        \"userStatus\": 0\r\n    },\r\n    {\r\n        \"id\": 1013,\r\n        \"username\": \"user333\",\r\n        \"firstName\": \"Jane3\",\r\n        \"lastName\": \"Doe3\",\r\n        \"email\": \"jd3@gmail.com\",\r\n        \"password\": \"pas12345\",\r\n        \"phone\": \"\",\r\n        \"userStatus\": 0\r\n    }\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/user/createWithArray",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								"createWithArray"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Find user by username",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/user/:username",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								":username"
+							],
+							"variable": [
+								{
+									"key": "username",
+									"value": "user123"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "User login",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/user/login?username=user123&password=pas12345",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								"login"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "user123"
+								},
+								{
+									"key": "password",
+									"value": "pas12345"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "User logout",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/user/logout",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "User delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/user/:username",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"user",
+								":username"
+							],
+							"variable": [
+								{
+									"key": "username",
+									"value": "user123"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Pet",
+			"item": [
+				{
+					"name": "Add pets",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 1919,\r\n  \"category\": {\r\n    \"id\": 1919,\r\n    \"name\": \"doggie\"\r\n  },\r\n  \"name\": \"Chester\",\r\n  \"photoUrls\": [\r\n    \"string\"\r\n  ],\r\n  \"tags\": [\r\n    {\r\n      \"id\": 1919,\r\n      \"name\": \"shiba-inu\"\r\n    }\r\n  ],\r\n  \"status\": \"available\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/pet",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Find pet by status",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 0,\r\n  \"category\": {\r\n    \"id\": 0,\r\n    \"name\": \"string\"\r\n  },\r\n  \"name\": \"doggie\",\r\n  \"photoUrls\": [\r\n    \"string\"\r\n  ],\r\n  \"tags\": [\r\n    {\r\n      \"id\": 0,\r\n      \"name\": \"string\"\r\n    }\r\n  ],\r\n  \"status\": \"available\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/pet/findByStatus?status=pending, sold",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet",
+								"findByStatus"
+							],
+							"query": [
+								{
+									"key": "status",
+									"value": "pending, sold"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Find pet by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/pet/:petid",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet",
+								":petid"
+							],
+							"variable": [
+								{
+									"key": "petid",
+									"value": "1919"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Upload image",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "additionalMetadata",
+									"value": "image jpg",
+									"type": "text"
+								},
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/G:/QA/712-poroda-sobak-siba-inu.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{url}}/pet/:petid/uploadImage",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet",
+								":petid",
+								"uploadImage"
+							],
+							"variable": [
+								{
+									"key": "petid",
+									"value": "1919"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update pet",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 31232323237,\r\n  \"category\": {\r\n    \"id\": 31232323237,\r\n    \"name\": \"doggie\"\r\n  },\r\n  \"name\": \"Rex\",\r\n  \"photoUrls\": [\r\n    \"string\"\r\n  ],\r\n  \"tags\": [\r\n    {\r\n      \"id\": 31232323237,\r\n      \"name\": \"Mops\"\r\n    }\r\n  ],\r\n  \"status\": \"sold\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/pet",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete pet",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_key",
+								"value": "special-key",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/pet/:petid",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"pet",
+								":petid"
+							],
+							"variable": [
+								{
+									"key": "petid",
+									"value": "1919"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Store",
+			"item": [
+				{
+					"name": "Add order",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": 999,\r\n  \"petId\": 1919,\r\n  \"quantity\": 1,\r\n  \"shipDate\": \"2023-07-10T10:33:50.686Z\",\r\n  \"status\": \"placed\",\r\n  \"complete\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/store/order",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"store",
+								"order"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Find purchase by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/store/order/:oderid",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"store",
+								"order",
+								":oderid"
+							],
+							"variable": [
+								{
+									"key": "oderid",
+									"value": "999"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete order",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/store/order/:orderid",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"store",
+								"order",
+								":orderid"
+							],
+							"variable": [
+								{
+									"key": "orderid",
+									"value": "999"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "https://petstore.swagger.io/v2",
+			"type": "string"
+		}
+	]
+}
