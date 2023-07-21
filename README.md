@@ -9,6 +9,7 @@ About me
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
@@ -30,8 +31,6 @@ Russian, English, Japanese
 
 ## Сontacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hiodollhouse)
-
-
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hio_nika)
 
 
