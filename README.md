@@ -2,8 +2,8 @@
 
 [![Header](https://github.com/hio-nika/hio-nika/blob/main/assets/pngwing-22.jpg)]()
 
-About me
-### I'm a DIY Creators and beginner QA Engineer
+## About me
+I'm a DIY Creators and beginner QA Engineer
 
 ## Tools
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
