@@ -12,6 +12,8 @@ I'm a DIY Creators and beginner QA Engineer
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
+
+![Selenium](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=5fbb49)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
@@ -29,7 +31,7 @@ I'm a DIY Creators and beginner QA Engineer
 ## Language
 Russian, English, Japanese
 
-## My hobby
+## My creative hobby
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]( https://www.youtube.com/HioDollHouse)
 
 ## Сontacts
