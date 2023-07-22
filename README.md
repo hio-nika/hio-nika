@@ -10,12 +10,12 @@ I'm a DIY Creators and beginner QA Engineer
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![AzureDevops](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
 
+![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
 ![Selenium](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=5fbb49)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![TestIt](https://img.shields.io/badge/TestIt-090909?style=for-the-badge&logo=testit&logoColor=71b556)
