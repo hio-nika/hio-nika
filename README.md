@@ -12,19 +12,19 @@ I'm a DIY Creator and beginner QA Engineer
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![AzureDevops](https://img.shields.io/badge/Azure_Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![AzureDevops](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
 
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=3fabf3)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=3fabf3)
 ![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
 ![Selenium](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=5fbb49)
 
-![TestRail](https://img.shields.io/badge/Test_Rail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
+![TestRail](https://img.shields.io/badge/Test%20Rail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![TestIt](https://img.shields.io/badge/TestIt-090909?style=for-the-badge&logo=testit&logoColor=71b556)
 ![Xmind](https://img.shields.io/badge/xmind-090909?style=for-the-badge&logo=xmind&logoColor=4dbb77)
 #
-![AdobePhotoshop](https://img.shields.io/badge/Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
-![AdobeAfterEffects](https://img.shields.io/badge/Adobe_After_Effects-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=5e5eff)
-![AdobeAudition](https://img.shields.io/badge/Adobe_Audition-090909?style=for-the-badge&logo=adobeaudition&logoColor=00e3ba)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
+![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=5e5eff)
+![AdobeAudition](https://img.shields.io/badge/Adobe%20Audition-090909?style=for-the-badge&logo=adobeaudition&logoColor=00e3ba)
 #
 
 ## Testing Documentation
@@ -44,8 +44,9 @@ Russian, English, Japanese
 ## Сontacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hiodollhouse)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hio_nika)
-[![EMAIL](https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=gmail)](mailto:asya.sham.qa@gmail.com)
-<a href="mailto:example@gmail.com?subject=Вопрос&body=Привет">Отправить письмо</a>
+[![EMAIL](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](mailto:asya.sham.qa@gmail.com)
+
+
 
 
 
