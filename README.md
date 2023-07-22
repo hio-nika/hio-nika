@@ -20,8 +20,8 @@ I'm a DIY Creators and beginner QA Engineer
 ![TestRail](https://img.shields.io/badge/Test_Rail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![TestIt](https://img.shields.io/badge/TestIt-090909?style=for-the-badge&logo=testit&logoColor=71b556)
 ![Xmind](https://img.shields.io/badge/xmind-090909?style=for-the-badge&logo=xmind&logoColor=4dbb77)
-
-
+#
+#
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe_After_Effects-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=5e5eff)
 ![AdobeAudition](https://img.shields.io/badge/Adobe_Audition-090909?style=for-the-badge&logo=adobeaudition&logoColor=00e3ba)
