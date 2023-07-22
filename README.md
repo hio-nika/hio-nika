@@ -21,7 +21,10 @@ I'm a DIY Creators and beginner QA Engineer
 ![TestIt](https://img.shields.io/badge/TestIt-090909?style=for-the-badge&logo=testit&logoColor=71b556)
 ![Xmind](https://img.shields.io/badge/xmind-090909?style=for-the-badge&logo=xmind&logoColor=4dbb77)
 
-![AdobePhotoshop](https://img.shields.io/badge/adobe_photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
+
+![AdobePhotoshop](https://img.shields.io/badge/Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
+![AdobeAfterEffects](https://img.shields.io/badge/Adobe_After_Effects-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=5e5eff)
+![AdobeAudition](https://img.shields.io/badge/Adobe_Audition-090909?style=for-the-badge&logo=adobeaudition&logoColor=00e3ba)
 
 ## Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/1rrrBkgJ6F9qslFDkHfO_Q6ThvGhLTLNtAiJqsskDoGc/edit?pli=1#gid=565329736)
