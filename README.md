@@ -10,7 +10,8 @@ I'm a DIY Creator and beginner QA Engineer
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=13b9ff)-->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=13b9ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)-->
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=0590fb)
 ![AzureDevops](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0590fb)
