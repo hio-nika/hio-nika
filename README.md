@@ -31,9 +31,9 @@ I'm a DIY Creator and beginner QA Engineer
 #
 
 ## Testing Documentation
-- [Checklists](https://docs.google.com/spreadsheets/d/1rrrBkgJ6F9qslFDkHfO_Q6ThvGhLTLNtAiJqsskDoGc/edit?pli=1#gid=565329736)
-- [Test-Cases](https://docs.google.com/spreadsheets/d/1rrrBkgJ6F9qslFDkHfO_Q6ThvGhLTLNtAiJqsskDoGc/edit?pli=1#gid=0)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1rrrBkgJ6F9qslFDkHfO_Q6ThvGhLTLNtAiJqsskDoGc/edit?pli=1#gid=587256877)
+- [Checklists](https://docs.google.com/spreadsheets/d/1_dfyqxHg2yiuZoN847gZjuQVlkW1S9uxKspKXmmz5aw/edit#gid=565329736)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1_dfyqxHg2yiuZoN847gZjuQVlkW1S9uxKspKXmmz5aw/edit#gid=0)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1_dfyqxHg2yiuZoN847gZjuQVlkW1S9uxKspKXmmz5aw/edit#gid=587256877)
 - [Postman Collections](postman/Petstore.postman_collection.json)
 
 
