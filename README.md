@@ -16,6 +16,8 @@ I'm a DIY Creator and beginner QA Engineer
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=0590fb)
 ![AzureDevops](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0590fb)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
+![MicrosoftExcel](https://img.shields.io/badge/Microsoft%20Excel-090909?style=for-the-badge&logo=microsoftexcel&logoColor=00ac47)
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=3fabf3)
 ![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
