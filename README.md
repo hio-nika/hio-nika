@@ -10,6 +10,7 @@ I'm a DIY Creator and beginner QA Engineer
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
+![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler)
 
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=13b9ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
