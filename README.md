@@ -6,7 +6,7 @@
 I'm a DIY Creator and beginner QA Engineer
 
 ## Tools
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github)
+![Github](http://www.w3.org/2000/svg)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
