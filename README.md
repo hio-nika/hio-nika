@@ -38,13 +38,13 @@ I'm a DIY Creator and beginner QA Engineer
   <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Xmind.png" title="Xmind" alt="Xmind" width="40" height="40"/>&nbsp
 </div>
 
-#
+
 <div>
   <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/adobe-photoshop-cs6-logo-svgrepo-com.svg" title="AdobePhotoshop" alt="AdobePhotoshop" width="40" height="40"/>&nbsp
   <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/after-effects-cc-logo-svgrepo-com.svg" title="AdobeAfterEffects" alt="AdobeAfterEffects" width="40" height="40"/>&nbsp
   <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Audition.png" title="AdobeAudition" alt="AdobeAudition" width="40" height="40"/>&nbsp
 </div>
-#
+
 
 ## Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/1_dfyqxHg2yiuZoN847gZjuQVlkW1S9uxKspKXmmz5aw/edit#gid=565329736)
