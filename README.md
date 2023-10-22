@@ -7,7 +7,7 @@ I'm a DIY Creator and beginner QA Engineer
 
 ## Tools
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/st-github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/pngfind.com-blast-png-162397.png" title="Github" alt="Github" width="40" height="40"/>&nbsp
 </div>
 
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
