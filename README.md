@@ -8,33 +8,42 @@ I'm a DIY Creator and beginner QA Engineer
 ## Tools
 <div>
   <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/pngfind.com-blast-png-162397.png" title="Github" alt="Github" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/chrome-dev-svgrepo-com.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postman-icon-svgrepo-com.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/swagger-svgrepo-com.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/charlesproxyicon.svg" title="Charles" alt="Charles" width="40" height="40"/>&nbsp
 </div>
 
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
-![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler)
-![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/mysql-svgrepo-com.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postgresql-svgrepo-com.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=13b9ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/jira-svgrepo-com.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/azure-devops-svgrepo-com.svg" title="AzureDevops" alt="AzureDevops" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/figma-svgrepo-com.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+</div>
 
-![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=0590fb)
-![AzureDevops](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0590fb)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
-![MicrosoftExcel](https://img.shields.io/badge/Microsoft%20Excel-090909?style=for-the-badge&logo=microsoftexcel&logoColor=00ac47)
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/visual-studio-code-1.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/selenium-svgrepo-com.svg" alt="Selenium" width="40" height="40"/>&nbsp
+</div>
 
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=3fabf3)
-![PyCharm](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=4dbb77)
-![Selenium](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=5fbb49)
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/636b9b02d0fed9e2252790b2_TestRail_Logo_Square.svg" title="TestRail" alt="TestRail" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/testit-logo.svg" title="TestIt" alt="TestIt" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Xmind.png" title="Xmind" alt="Xmind" width="40" height="40"/>&nbsp
+</div>
 
-![TestRail](https://img.shields.io/badge/Test%20Rail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
-![TestIt](https://img.shields.io/badge/TestIt-090909?style=for-the-badge&logo=testit&logoColor=71b556)
-![Xmind](https://img.shields.io/badge/xmind-090909?style=for-the-badge&logo=xmind&logoColor=4dbb77)
 #
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=036abc)
-![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=5e5eff)
-![AdobeAudition](https://img.shields.io/badge/Adobe%20Audition-090909?style=for-the-badge&logo=adobeaudition&logoColor=00e3ba)
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/adobe-photoshop-cs6-logo-svgrepo-com.svg" title="AdobePhotoshop" alt="AdobePhotoshop" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/after-effects-cc-logo-svgrepo-com.svg" title="AdobeAfterEffects" alt="AdobeAfterEffects" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Audition.png" title="AdobeAudition" alt="AdobeAudition" width="40" height="40"/>&nbsp
+</div>
 #
 
 ## Testing Documentation
@@ -49,14 +58,24 @@ I'm a DIY Creator and beginner QA Engineer
 Russian, English, Japanese
 
 ## My creative hobby
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]( https://www.youtube.com/HioDollHouse)
+  <div id="badges">
+    <a href="https://www.youtube.com/HioDollHouse" target="_blank">
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/youtube-svgrepo-com.svg" width="40" height="40" alt="YouTube" />
+    </a>
+  </div>
 
 ## Сontacts
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hiodollhouse)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hio_nika)
-[![EMAIL](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](mailto:asya.sham.qa@gmail.com)
-
-
+  <div id="badges">
+    <a href="https://vk.com/hiodollhouse" target="_blank">
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/vk-1-logo-svgrepo-com.svg" width="40" height="40" alt="Vkontakte" />
+    </a>
+    <a href="https://t.me/hio_nika" target="_blank">
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/telegram-svgrepo-com.svg" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="mailto:asya.sham.qa@gmail.com" target="_blank">
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/internet%2C%20computer%2C%20email%2C%20google%2C%20message%2C%20gmail%20icon.svg" width="40" height="40" alt="EMAIL" />
+    </a>
+  </div>
 
 
 
