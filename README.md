@@ -7,12 +7,12 @@ I'm a DIY Creator and beginner QA Engineer
 
 ## Tools
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/pngfind.com-blast-png-162397.png" title="Github" alt="Github" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/chrome-dev-svgrepo-com.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postman-icon-svgrepo-com.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/swagger-svgrepo-com.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/charlesproxyicon.svg" title="Charles" alt="Charles" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/pngfind.com-blast-png-162397.png" title="Github" alt="Github" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/chrome-dev-svgrepo-com.svg" title="DevTools" alt="DevTools" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postman-icon-svgrepo-com.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/swagger-svgrepo-com.svg" title="Swagger" alt="Swagger" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/charlesproxyicon.svg" title="Charles" alt="Charles" width="30" height="30"/>&nbsp
 </div>
 
 <div>
