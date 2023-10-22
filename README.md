@@ -16,33 +16,32 @@ I'm a DIY Creator and beginner QA Engineer
 </div>
 
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/mysql-svgrepo-com.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postgresql-svgrepo-com.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/mysql-svgrepo-com.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/postgresql-svgrepo-com.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp
 </div>
 
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/jira-svgrepo-com.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/azure-devops-svgrepo-com.svg" title="AzureDevops" alt="AzureDevops" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/figma-svgrepo-com.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/jira-svgrepo-com.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/azure-devops-svgrepo-com.svg" title="AzureDevops" alt="AzureDevops" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/figma-svgrepo-com.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp
 </div>
 
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/visual-studio-code-1.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/selenium-svgrepo-com.svg" alt="Selenium" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/visual-studio-code-1.svg" title="VisualStudioCode" alt="VisualStudioCode" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Pycharm.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/selenium-svgrepo-com.svg" alt="Selenium" width="30" height="30"/>&nbsp
 </div>
 
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/636b9b02d0fed9e2252790b2_TestRail_Logo_Square.svg" title="TestRail" alt="TestRail" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/testit-logo.svg" title="TestIt" alt="TestIt" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Xmind.png" title="Xmind" alt="Xmind" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/636b9b02d0fed9e2252790b2_TestRail_Logo_Square.svg" title="TestRail" alt="TestRail" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/testit-logo.svg" title="TestIt" alt="TestIt" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Xmind.png" title="Xmind" alt="Xmind" width="30" height="30"/>&nbsp
 </div>
 
-
 <div>
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/adobe-photoshop-cs6-logo-svgrepo-com.svg" title="AdobePhotoshop" alt="AdobePhotoshop" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/after-effects-cc-logo-svgrepo-com.svg" title="AdobeAfterEffects" alt="AdobeAfterEffects" width="40" height="40"/>&nbsp
-  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Audition.png" title="AdobeAudition" alt="AdobeAudition" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/adobe-photoshop-cs6-logo-svgrepo-com.svg" title="AdobePhotoshop" alt="AdobePhotoshop" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/after-effects-cc-logo-svgrepo-com.svg" title="AdobeAfterEffects" alt="AdobeAfterEffects" width="30" height="30"/>&nbsp
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/Audition.png" title="AdobeAudition" alt="AdobeAudition" width="30" height="30"/>&nbsp
 </div>
 
 
@@ -60,20 +59,20 @@ Russian, English, Japanese
 ## My creative hobby
   <div id="badges">
     <a href="https://www.youtube.com/HioDollHouse" target="_blank">
-      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/youtube-svgrepo-com.svg" width="40" height="40" alt="YouTube" />
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/youtube-svgrepo-com.svg" width="30" height="30" alt="YouTube" />
     </a>
   </div>
 
 ## Сontacts
   <div id="badges">
     <a href="https://vk.com/hiodollhouse" target="_blank">
-      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/vk-1-logo-svgrepo-com.svg" width="40" height="40" alt="Vkontakte" />
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/vk-1-logo-svgrepo-com.svg" width="30" height="30" alt="Vkontakte" />
     </a>
     <a href="https://t.me/hio_nika" target="_blank">
-      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/telegram-svgrepo-com.svg" width="40" height="40" alt="telegram" />
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/telegram-svgrepo-com.svg" width="30" height="30" alt="telegram" />
     </a>
     <a href="mailto:asya.sham.qa@gmail.com" target="_blank">
-      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/internet%2C%20computer%2C%20email%2C%20google%2C%20message%2C%20gmail%20icon.svg" width="40" height="40" alt="EMAIL" />
+      <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/internet%2C%20computer%2C%20email%2C%20google%2C%20message%2C%20gmail%20icon.svg" width="30" height="30" alt="EMAIL" />
     </a>
   </div>
 
