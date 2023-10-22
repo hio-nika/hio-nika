@@ -6,6 +6,10 @@
 I'm a DIY Creator and beginner QA Engineer
 
 ## Tools
+<div>
+  <img src="https://github.com/hio-nika/hio-nika/blob/develop/icon%20svg/iconmonstr-github-1.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp
+</div>
+
 ![Github](http://www.w3.org/2000/svg)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
