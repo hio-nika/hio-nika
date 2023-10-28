@@ -1,0 +1,403 @@
+{
+	"info": {
+		"_postman_id": "bdf67343-4010-4df2-a3ab-d9223f2ccdbc",
+		"name": "qa-playground",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26485656"
+	},
+	"item": [
+		{
+			"name": "Create new user",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"hio@gmail.com\",\r\n  \"password\": \"password1\",\r\n  \"name\": \"Hio\",\r\n  \"nickname\": \"hio\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/users",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create new user (fixed)",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"hio3@gmail.com\",\r\n  \"password\": \"password1\",\r\n  \"name\": \"Hio\",\r\n  \"nickname\": \"hio\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://release-gs.qa-playground.com/api/v1/users",
+					"protocol": "https",
+					"host": [
+						"release-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Verify user information",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/users",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete user",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/users/{uuid}",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users",
+						"{uuid}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete user (fixed)",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://release-gs.qa-playground.com/api/v1/users/{uuid}",
+					"protocol": "https",
+					"host": [
+						"release-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users",
+						"{uuid}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search games",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/games/search?query=Elden",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"games",
+						"search"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "Elden",
+							"description": "Elden"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search games (fixed)",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://release-gs.qa-playground.com/api/v1/games/search?query=Elden",
+					"protocol": "https",
+					"host": [
+						"release-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"games",
+						"search"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "Elden",
+							"description": "Elden"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add item to users wishlist",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_uuid\": \"1990ecdd-4d3d-4de2-91b9-d45d794c82bc\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/users/{uuid}/wishlist/add",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users",
+						"{uuid}",
+						"wishlist",
+						"add"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add item to users wishlist (fixed)",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_uuid\": \"1990ecdd-4d3d-4de2-91b9-d45d794c82bc\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://release-gs.qa-playground.com/api/v1/users/693d9b4e-db2e-4b70-a13f-8517a05cd8f7/wishlist/add",
+					"protocol": "https",
+					"host": [
+						"release-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users",
+						"693d9b4e-db2e-4b70-a13f-8517a05cd8f7",
+						"wishlist",
+						"add"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wishlist",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNjk4OTQ2MzM2LCJpYXQiOjE2OTgzNDYzMzYsImlzcyI6Imh0dHBzOi8vbXlrb3RxYm9ja3p2emFjY2N1Ynouc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6IjM5NTU2M2I4LTZjNmUtNDFjNS1iZWFiLTVkNTdmN2Y2ZTRkOSIsImVtYWlsIjoiYXN5YS5zaGFtLnFhQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZnVsbF9uYW1lIjoiQXN5YSJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6ImVtYWlsL3NpZ251cCIsInRpbWVzdGFtcCI6MTY5ODMyMzQ1MX1dLCJzZXNzaW9uX2lkIjoiMWMzNjFhMjEtMWFhOS00NjU5LWIzYzUtN2EyNmUzODYwMWU3In0.aap2UX6RQ1oxU2Bbj1gI8Sj5inHujs0XPLB8t4EbQT8",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://dev-gs.qa-playground.com/api/v1/users/693d9b4e-db2e-4b70-a13f-8517a05cd8f7/wishlist",
+					"protocol": "https",
+					"host": [
+						"dev-gs",
+						"qa-playground",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"users",
+						"693d9b4e-db2e-4b70-a13f-8517a05cd8f7",
+						"wishlist"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "uuid",
+			"value": "",
+			"type": "string"
+		}
+	]
+}
